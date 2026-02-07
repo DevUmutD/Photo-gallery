@@ -1,2 +1,2 @@
-# PHOTOS-GALLERES
+# Photo-gallery
 Bu bir ilk deneyimdir.
